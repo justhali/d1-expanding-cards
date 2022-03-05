@@ -8,6 +8,11 @@ Afin de revoir les notions de base en Javascript, je me suis (re) lancée dans l
 Le jour 1 correspond à la mise en place d'un effet en flexbox d'agrandissement de carte. 
 Ici je me suis permis de faire un site plus ou moins complet pour agrémenter le widget.
 Ce site n'est pas entièrement responsive car ce n'était pas ma priorité mais je reviendrais dessus plus tard.
+
+## Voir projet
+"C:\Users\Moi\Downloads\Day-1-Expanding-cards.png"
+
+Lien Github Pages : [Expanding Card](https://justhali.github.io/d1-expanding-cards/)
 ### Langages utilisées
 
 **HTML**
